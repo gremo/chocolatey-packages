@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>syncbackfree</id>
+    <version>9.3.30.0</version>
+    <packageSourceUrl>https://github.com/gremo/chocolatey-packages/tree/master/syncbackfree</packageSourceUrl>
+    <owners>Marco Polichetti</owners>
+    <title>SyncBackFree</title>
+    <authors>2BrightSparks Pte. Ltd.</authors>
+    <projectUrl>https://www.2brightsparks.com/freeware/index.html</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/gremo/chocolatey-packages@master/icons/syncbackfree.png</iconUrl>
+    <tags>backup synchronize FTP cloud</tags>
+    <description>Powerful windows software to backup and synchronize your files. With support for cloud, FTP, copying locked files, intelligent synchronization and more.</description>
+    <releaseNotes>https://www.2brightsparks.com/syncback/changes.html</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
