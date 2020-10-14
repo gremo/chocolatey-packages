@@ -3,7 +3,7 @@
 $packageArgs = @{
   packageName    = $env:ChocolateyPackageName
   url            = 'https://www.2brightsparks.com/assets/software/SyncBack_Setup.exe'
-  checksum       = '59395c5ae62841ce6e5af131fd2847ee31a48b75705581d31349e35b85d19b09'
+  checksum       = '3f183f4fcd318b7ae216c1c43d39559c50acaa08498a9a2027a2765e238c546c'
   checksumType   = 'sha256'
   silentArgs     = "/NORESTART /SP- /SUPPRESSMSGBOXES /VERYSILENT"
   validExitCodes = @(0, 3010, 1641)
