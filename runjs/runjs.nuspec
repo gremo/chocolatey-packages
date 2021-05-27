@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>runjs</id>
+    <version>1.15.0</version>
+    <packageSourceUrl>https://github.com/gremo/chocolatey-packages/tree/master/runjs</packageSourceUrl>
+    <owners>Marco Polichetti</owners>
+    <title>RunJS</title>
+    <authors>Luke Haas</authors>
+    <projectUrl>https://runjs.app</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/gremo/chocolatey-packages@master/icons/runjs.png</iconUrl>
+    <tags>javascript interpreter playground</tags>
+    <description>The JavaScript playground for your desktop.</description>
+    <releaseNotes>https://github.com/lukehaas/RunJS/blob/master/CHANGELOG.md</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
