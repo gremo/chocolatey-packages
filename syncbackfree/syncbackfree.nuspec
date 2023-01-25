@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>syncbackfree</id>
-    <version>10.2.49.0</version>
+    <version>10.2.88.0</version>
     <packageSourceUrl>https://github.com/gremo/chocolatey-packages/tree/master/syncbackfree</packageSourceUrl>
     <owners>Marco Polichetti</owners>
     <title>SyncBackFree</title>
